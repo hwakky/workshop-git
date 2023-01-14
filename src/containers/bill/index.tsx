@@ -89,7 +89,7 @@ const BillContainer = (): ReactElement => {
             <Table.Summary>
               <Table.Summary.Row>
                 <Table.Summary.Cell index ={0} colSpan={3} align={'right'}>
-                total
+                total gg
                 </Table.Summary.Cell>
                 <Table.Summary.Cell index ={1} align={'center'}>
                 {total}
